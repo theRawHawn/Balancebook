@@ -122,9 +122,9 @@ export default function ContactSection() {
                           </FormControl>
                           <SelectContent>
                             <SelectItem value="retail">Retail Store</SelectItem>
-                            <SelectItem value="trading">Trading Business</SelectItem>
-                            <SelectItem value="service">Service Provider</SelectItem>
-                            <SelectItem value="manufacturing">Manufacturing</SelectItem>
+                            <SelectItem value="trading">Micro Business</SelectItem>
+                            <SelectItem value="service">Small Business</SelectItem>
+                            <SelectItem value="manufacturing">Startup</SelectItem>
                             <SelectItem value="other">Other</SelectItem>
                           </SelectContent>
                         </Select>
